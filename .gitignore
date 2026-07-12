@@ -1,0 +1,27 @@
+# WorkBuddy project data (not part of source)
+.workbuddy/
+
+# OS / filesystem junk
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Node
+node_modules/
+dist/
+
+# Logs
+*.log
